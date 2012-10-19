@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>res/signalRect.png</file>
+     <file>res/signalSinus.png</file>
+     <file>res/signalTri.png</file>
+ </qresource>
+ </RCC>
